@@ -28,11 +28,13 @@
 
 ----------------------------------
 
-# **Summary **
+# **Summary**
 
 ----------------------------------
 
+* Looking at the Temperature data we can see that the from June to December the mean temperature only decreasing by four degreee ( 75 F to 71 F).  With the plans of opening up a surf shop this make for an ideal situation.  We analyize the data even further to see that in both months that standard deviation is between 3.2 to 3.7, meaning that the fluctuation in temperature remains fairly stable.  Investigating a bit further we can look at the max temp and the min temp in June min/max is 64/85, and in December min/max is 56/83.  Given the stablity I would definitely move forward with the surf shop based on temperature analysis. 
 
+* We were also given the percip
 
 
 
