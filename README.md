@@ -24,10 +24,13 @@
 
 * Using Python, Pandas functions and methods, and SQLAlchemy, you’ll filter the date column of the Measurements table in the hawaii.sqlite database to retrieve all the temperatures for the month of December. You’ll then convert those temperatures to a list, create a DataFrame from the list, and generate the summary statistics.
 
+![deliverable_2.PNG](https://github.com/Bionicbabes/surfs_up/blob/main/Resources/deliverable_2.PNG)
 
+----------------------------------
 
+# **Summary **
 
-
+----------------------------------
 
 
 
